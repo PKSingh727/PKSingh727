@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PKSingh727
-- 👀 I’m interested in SQL, Advance Excel, Data Analysis, BIG Data engineering and Cloud Data engineering in Azure
-- 🌱 I’m currently learning Big data
+- 👀 I’m interested in advancing to Automation Testing with Proficiency in Selenium, Java and Python
+- 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on Insurance domain problem statement
 - 📫 How to reach me in my mail id pkumar.amc@gmail.com
 
